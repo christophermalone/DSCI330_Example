@@ -1,1 +1,10 @@
-# DSCI330_Example
+# REPO NAME:  DSCI330_Example
+This is my repo for DSCI 330 Class.  I am not sure how much material I will be posting 
+here.  Most likely just some silly stuff.
+
+# This is a large heading
+ More silly stuff...
+
+## A somewhat smaller heading...
+
+
